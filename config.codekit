@@ -670,6 +670,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/poly_loading_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38270,
+		"inputAbbreviatedPath": "\/images\/poly_loading_logo.png",
+		"outputAbbreviatedPath": "\/images\/poly_loading_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/services-bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1353,6 +1364,17 @@
 		"initialSize": 43214,
 		"inputAbbreviatedPath": "\/resources\/logo\/longlogo.png",
 		"outputAbbreviatedPath": "\/resources\/logo\/longlogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/logo\/pd_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32768,
+		"inputAbbreviatedPath": "\/resources\/logo\/pd_logo.png",
+		"outputAbbreviatedPath": "\/resources\/logo\/pd_logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
