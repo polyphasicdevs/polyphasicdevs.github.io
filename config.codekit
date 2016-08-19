@@ -300,7 +300,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1170,
+		"initialSize": 561225,
 		"inputAbbreviatedPath": "\/images\/favicon.png",
 		"outputAbbreviatedPath": "\/images\/favicon.png",
 		"outputPathIsOutsideProject": 0,
@@ -677,6 +677,17 @@
 		"initialSize": 38270,
 		"inputAbbreviatedPath": "\/images\/poly_loading_logo.png",
 		"outputAbbreviatedPath": "\/images\/poly_loading_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/poly_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9177,
+		"inputAbbreviatedPath": "\/images\/poly_logo.png",
+		"outputAbbreviatedPath": "\/images\/poly_logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
