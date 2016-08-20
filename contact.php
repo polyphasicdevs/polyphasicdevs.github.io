@@ -8,7 +8,7 @@
  * The script will try to use PHP's mail() function,
  * so if it is not properly configured it will fail silently (no error).
  */
-$mailTo     = 'email@example.com';
+$mailTo     = 'info@polyphasicdevs.com';
 
 /**
  * Set the message that will be shown on success
@@ -45,7 +45,7 @@ if(
 	empty($_POST['contact-phone']) ||
     empty($_POST['contact-budget']) ||
 	empty($_POST['contact-type']) ||
-    empty($_POST['contact-message']) 
+    empty($_POST['contact-message'])
 ) {
     echo '<script type="text/javascript">window.parent.$("#contact #alert-msg").html("' . $fillMsg . '");window.parent.$("#contact #alert-msg").show();</script>';
 } else {
@@ -67,11 +67,11 @@ if(
 		window.parent.$("#input_compnay_name").val("");
 		window.parent.$("#input_email").val("");
 		window.parent.$("#input_phone").val("");
-		window.parent.$("#input_budget").val("");		
-		window.parent.$("#input_type").val(""); 
-		window.parent.$("#textarea_message").val(""); 
+		window.parent.$("#input_budget").val("");
+		window.parent.$("#input_type").val("");
+		window.parent.$("#textarea_message").val("");
 		window.parent.$("#contact #alert-msg").show();</script>';
-    } 
+    }
 		else {
         echo '<script type="text/javascript">window.parent.$("#contact #alert-msg").html("' . $errorMsg . '");window.parent.$("#contact #alert-msg").show();</script>';
     }
