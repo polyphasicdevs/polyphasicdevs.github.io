@@ -24,20 +24,21 @@
 	padding: 93px 0;
 }
 
+
 .slider-section .slide-title span.inner-circle span {
 	display: block;
 	text-align: center;
 }
 
 .slider-section .slide-title span.inner-circle span:nth-child(1) {
-	font-size: 69px;
+	font-size: 34px;
 }
 
 .slider-section .slide-title span.inner-circle span:nth-child(2) {
-	font-size: 63px;
+	font-size: 34px;
 }
 .slider-section .slide-title span.inner-circle span:nth-child(3) {
-	font-size: 60px;
+	font-size: 34px;
 }
 .slider-section .slide-sub-title {
 	color: #fff;
