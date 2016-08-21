@@ -329,6 +329,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/genius\/brianprofile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24485,
+		"inputAbbreviatedPath": "\/images\/genius\/brianprofile.jpg",
+		"outputAbbreviatedPath": "\/images\/genius\/brianprofile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/genius\/genius-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -402,6 +413,17 @@
 		"initialSize": 5448,
 		"inputAbbreviatedPath": "\/images\/genius\/genius-info.jpg",
 		"outputAbbreviatedPath": "\/images\/genius\/genius-info.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/genius\/ProfilePic.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43258,
+		"inputAbbreviatedPath": "\/images\/genius\/ProfilePic.jpg",
+		"outputAbbreviatedPath": "\/images\/genius\/ProfilePic.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
