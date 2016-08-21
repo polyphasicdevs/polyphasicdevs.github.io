@@ -1165,6 +1165,11 @@ a { outline: 0 !important; }
 	font-size: 24px;
 }
 
+.hover a {
+	text-decoration: none;
+	color: #fff;
+}
+
 .our-genius .style1:hover .hover,
 .our-genius .style3:hover .hover,
 .our-genius .style4:hover .hover,
@@ -1216,6 +1221,7 @@ a { outline: 0 !important; }
 .our-genius .style7 img{
 	float: left;
 	width: auto !important;
+	
 }
 
 .our-genius .style1 {
