@@ -320,8 +320,8 @@ a { outline: 0 !important; }
 	height: 100%;
 	top: 0;
 	overflow: visible;
-	border-top: 1026px solid rgba(231,76,60,0.90);
-	border-bottom: 0px solid rgba(231,76,60,0.90);
+	border-top: 1026px solid rgba(0, 193, 238,0.8);
+	border-bottom: 0px solid rgba(0, 193, 238,0.8);
 	border-left: 0px solid transparent;
 	border-right: 260px solid transparent;
 	content: "";
@@ -572,7 +572,7 @@ a { outline: 0 !important; }
 }
 
 .portfolio-block-hover {
-	background-color: rgba(231, 76, 60, 0.90);
+	background-color: rgba(0, 193, 238,0.8);
 	display: none;
 	position: absolute;
 	height: 100%;
@@ -635,8 +635,8 @@ a { outline: 0 !important; }
 	height: 100%;
 	top: -1px;
 	overflow: visible;
-	border-top: 0px solid rgba(231,76,60,0.90);
-	border-bottom: 1021px solid rgba(231,76,60,0.90);
+	border-top: 0px solid rgba(0, 193, 238,0.8);
+	border-bottom: 1021px solid rgba(0, 193, 238,0.8);
 	border-left: 260px solid transparent;
 	border-right: 0px solid transparent;
 	content: "";
@@ -776,7 +776,7 @@ a { outline: 0 !important; }
 	transform-origin: right center;*/
 	height: 803px;
 	position: relative;
-	background-image: url("images/how-we-work/research-bg.jpg");
+	background-image: url("images/how-we-work/1920x887.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -785,7 +785,7 @@ a { outline: 0 !important; }
 .research-slope:before {
 	width: 52%;
 	height: 100%;
-	border-bottom: 810px solid rgba(231,76,68,0.9);
+	border-bottom: 810px solid rgba(0, 193, 238,0.8);
 	border-left: 150px solid transparent;
 	border-right: 50px solid transparent;
 	content: "";
@@ -797,7 +797,7 @@ a { outline: 0 !important; }
 
 /*
 .research-box-inner {
-	background-color: rgba(231,76,68,0.9);
+	background-color: rgba(0, 193, 238,0.8);
 	position: absolute;
 	top: 0px;
 	height: 200%;
@@ -890,7 +890,7 @@ a { outline: 0 !important; }
 	-ms-transform: rotate(5deg);
 	transform: rotate(5deg);
 	height: 803px;
-	background-image: url("images/how-we-work/we-perfection.jpg");
+	background-image: url("images/how-we-work/1920x800.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -900,10 +900,10 @@ a { outline: 0 !important; }
 .we-perfection-slope:before {
 	width: 58.5%;
 	height: 100%;
-	border-bottom: 800px solid rgba(231,76,68,0.9);
+	border-bottom: 800px solid rgba(0, 193, 238,0.8);
 	border-left: 0px solid transparent;
 	border-right: 230px solid transparent;
-	border-top: 0px solid rgba(231,76,68,0.9);
+	border-top: 0px solid rgba(0, 193, 238,0.8);
 	content: "";
 	position: absolute;
 	top: -4px;
@@ -912,7 +912,7 @@ a { outline: 0 !important; }
 }
 
 .we-perfection-box-inner {
-	background-color: rgba(231,76,68,0.9);
+	background-color: rgba(0, 193, 238,0.8);
 	position: absolute;
 	top: -170px;
 	height: 200%;
@@ -947,7 +947,7 @@ a { outline: 0 !important; }
 	margin-left: -50px;
 	margin-right: -50px;
 	height: 950px;
-	background-image: url("images/how-we-work/car.jpg");
+	background-image: url("images/how-we-work/1920x950.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -971,7 +971,7 @@ a { outline: 0 !important; }
 	transform: rotate(-1deg);
 	margin-top: -150px;
 	height: 803px;
-	background-image: url("images/how-we-work/clean-code.png");
+	background-image: url("images/how-we-work/1920x803.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -980,8 +980,8 @@ a { outline: 0 !important; }
 .clean-code:before {
 	width: 53.7%;
 	height: 100%;
-	border-bottom: 800px solid rgba(231,76,68,0.9);
-	border-top: 0px solid rgba(231,76,68,0.9);
+	border-bottom: 800px solid rgba(0, 193, 238,0.8);
+	border-top: 0px solid rgba(0, 193, 238,0.8);
 	border-left: 165px solid transparent;
 	border-right: 0px solid transparent;
 	content: "";
@@ -992,7 +992,7 @@ a { outline: 0 !important; }
 }
 
 .clean-code-box-inner {
-	background-color: rgba(231,76,68,0.9);
+	background-color: rgba(0, 193, 238,0.8);
 	position: absolute;
 	top: 0px;
 	height: 200%;
@@ -1025,7 +1025,7 @@ a { outline: 0 !important; }
 	transform: rotate(0deg);
 	height: 800px;
 	background-color: transparent;
-	background-image: url("images/how-we-work/we-launch-project.png");
+	background-image: url("images/how-we-work/1920x800_2.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -1034,10 +1034,10 @@ a { outline: 0 !important; }
 .we-launch-slope:before {
 	width: 55%;
 	height: 100%;
-	border-bottom: 800px solid rgba(231,76,68,0.9);
+	border-bottom: 800px solid rgba(0, 193, 238,0.8);
 	border-left: 0px solid transparent;
 	border-right: 180px solid transparent;
-	border-top: 0px solid rgba(231,76,68,0.9);
+	border-top: 0px solid rgba(0, 193, 238,0.8);
 	content: "";
 	position: absolute;
 	top: 42px;
@@ -1051,7 +1051,7 @@ a { outline: 0 !important; }
 }
 
 .we-launch-box-inner {
-	background-color: rgba(231,76,68,0.9);
+	background-color: rgba(0, 193, 238,0.8);
 	position: absolute;
 	top: -170px;
 	height: 200%;
@@ -1154,7 +1154,7 @@ a { outline: 0 !important; }
 	position: absolute;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(231,76,49,0.9);
+	background-color: rgba(0, 193, 238,0.8);
 	display: none;
 	top: 0;
 	color: #fff;
@@ -1404,7 +1404,7 @@ a { outline: 0 !important; }
 	position: absolute;
 	top: 0;
 	height: 100%;
-	color: #fff;
+	color: #000000;
 	width: 50%;
 	left: 0;
 }
@@ -1492,7 +1492,7 @@ a { outline: 0 !important; }
 	border-radius: 0;
 	position: relative;
 	line-height: 50px;
-	color: #fff;
+	color: #000000;
 	margin-top: 40px;
 	background-color: rgba(255,255,255,0.10);
 }
@@ -1730,18 +1730,19 @@ a { outline: 0 !important; }
 
 .client-hover {
 	position: absolute;
-	top: 38%;
+	top: 30%;
 	text-align: center;
 	left: 20%;
 	right: 20%;
 	display: none;
-	background-color: transparent;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 30px;
 }
 
 .client-hover h2 {
 	font-size: 48px;
 	font-weight: bold;
-	color: #fff;
+	color: #ffffff;
 	margin: 0 auto;
 	display: block;
 	line-height: 60px;
@@ -1750,12 +1751,12 @@ a { outline: 0 !important; }
 
 .client-hover p {
 	font-size: 24px;
-	color: #fff;
+	color: #ffffff;
 	font-weight: 300;
 }
 
 .client-style3 {
-	background-image: url("images/client/client-big-3.jpg");
+	background-image: url("images/client/client_waterford.png");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	float: left;
@@ -1884,7 +1885,7 @@ a { outline: 0 !important; }
 	padding: 130px 0;
 	width: 100%;
 	float: left;
-	top: 0;
+	top: 6px;
 	clear: both;
 }
 
@@ -2090,7 +2091,7 @@ a { outline: 0 !important; }
 
 .light-box .modal-backdrop,
 .light-box.modal {
-	background-color: rgba(231,76,60,0.90);
+	background-color: rgba(0, 193, 238,0.8);
 	color: #fff;
 }
 
