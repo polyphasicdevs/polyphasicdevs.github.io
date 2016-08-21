@@ -1665,7 +1665,7 @@ a { outline: 0 !important; }
 .client-style1 {
 	float: left;
 	clear: both;
-	background-image: url("images/client/client-big-1.jpg");
+	background-image: url("images/client/client_xirang.png");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -1699,7 +1699,7 @@ a { outline: 0 !important; }
 	margin-top: -160px;
 	position: relative;
 	width: 100%;
-	background-image: url("images/client/client-2.jpg");
+	background-image: url("images/client/client_dharmabeach.png");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	height: 450px;
