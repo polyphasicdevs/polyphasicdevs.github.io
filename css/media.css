@@ -343,7 +343,7 @@
 {
 	/* Why Choose Section */
 	.why-choose-box {
-		margin-left: 89px;
+		margin-left: 120px;
 	}
 	/* Our Genius */
 	.our-genius .style1 img,
@@ -399,7 +399,7 @@
 	}
 	.we-perfection-slope:before {
 		width: 52.2%;
-		height: 120%;
+		height: 130%;
 		border: none;
 		background-color: rgba(0, 193, 238,0.8);
 		top: -83px;
@@ -422,9 +422,9 @@
 	.we-launch-slope:before {
 		border-color: rgba(0, 193, 238,0.8) transparent;
 		border-style: solid;
-		border-width: 0px 200px 800px 0;
+		border-width: 0px 169px 875px 0;
+		top: -30px;
 		height: 100%;
-		top: 42px;
 		transform: skewY(6deg);
 		-webkit-transform: skewY(6deg);
 		-moz-transform: skewY(6deg);
@@ -446,6 +446,14 @@
 	.modal.in .modal-dialog {
 		transform: translate(0px, 25%);
 	}
+
+	.we-launch{
+		left: 175px;
+	}
+
+	.we-perfection{
+		left: 175px;
+	}
 }
 
 /* ## 992 to 1200 ## */
@@ -459,6 +467,12 @@
 		line-height: 65px;
 		font-size: 56px;
 		bottom: 50px;
+	}
+
+	/* Services */
+	.service-bg{
+		margin-top: 104px;
+		margin-right: -28px;
 	}
 
 	/* Features Section */
@@ -486,6 +500,13 @@
 	/* Why Choose Section */
 	.why-choose:before {
 		width: 60%;
+	}
+	.why-choose-box{
+		margin-top:40px;
+	}
+
+	.why-choose h2{
+		margin-left: 150px;
 	}
 
 	/* How We Work */
@@ -516,9 +537,9 @@
 	.we-launch-slope:before {
 		border-color: rgba(0, 193, 238,0.8) transparent;
 		border-style: solid;
-		border-width: 0px 200px 800px 0;
+		border-width: 0px 203px 873px 0;
 		height: 100%;
-		top: 47px;
+		top: -24px;
 		transform: skewY(7deg);
 		-webkit-transform: skewY(7deg);
 		-moz-transform: skewY(7deg);
@@ -1772,7 +1793,24 @@
 		top: 28%;
 	}
 	.we-launch-slope {
-		margin-top: -90px;
+		margin-top: -137px;
+	}
+
+	.project-section{
+		padding: 0;
+		top: 0;
+	}
+
+	.project-section .container {
+		padding: 33px;
+	}
+
+	.start-project h2 {
+		font-size: 33px;
+	}
+
+	.send-msg h2 {
+		font-size: 33px;
 	}
 }
 /* ## 319 to 480 ## */
@@ -1917,13 +1955,14 @@
 	/* ## Project Section ## */
 	.project-section {
 		padding: 63px 0;
+		top:0;
 	}
 	.project-section:before {
-		border-bottom: 0 solid #e74c3c;
-		border-top: 550px solid #e74c3c;
+		border-bottom: 0 solid rgb(0, 193, 238);
+		border-top: 550px solid rgb(0, 193, 238);
 		border-left: 0 solid transparent;
 		border-right: 120px solid transparent;
-		width: 60%;
+		width: 58%;
 	}
 
 	.why-choose h2 {
