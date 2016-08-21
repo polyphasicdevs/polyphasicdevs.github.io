@@ -417,6 +417,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/genius\/james.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33860,
+		"inputAbbreviatedPath": "\/images\/genius\/james.jpg",
+		"outputAbbreviatedPath": "\/images\/genius\/james.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/genius\/ProfilePic.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -424,6 +435,17 @@
 		"initialSize": 43258,
 		"inputAbbreviatedPath": "\/images\/genius\/ProfilePic.jpg",
 		"outputAbbreviatedPath": "\/images\/genius\/ProfilePic.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/genius\/tinsley.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43206,
+		"inputAbbreviatedPath": "\/images\/genius\/tinsley.jpg",
+		"outputAbbreviatedPath": "\/images\/genius\/tinsley.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -604,6 +626,94 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/our-work\/dharmabeach.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 70662,
+		"inputAbbreviatedPath": "\/images\/our-work\/dharmabeach.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/dharmabeach.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/healingwithtanya.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89077,
+		"inputAbbreviatedPath": "\/images\/our-work\/healingwithtanya.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/healingwithtanya.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/luckyenglish.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 313307,
+		"inputAbbreviatedPath": "\/images\/our-work\/luckyenglish.png",
+		"outputAbbreviatedPath": "\/images\/our-work\/luckyenglish.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/luckyenglish2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 246621,
+		"inputAbbreviatedPath": "\/images\/our-work\/luckyenglish2.png",
+		"outputAbbreviatedPath": "\/images\/our-work\/luckyenglish2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/marazulspanishschool.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203038,
+		"inputAbbreviatedPath": "\/images\/our-work\/marazulspanishschool.png",
+		"outputAbbreviatedPath": "\/images\/our-work\/marazulspanishschool.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/montanita.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75699,
+		"inputAbbreviatedPath": "\/images\/our-work\/montanita.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/montanita.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/montanitaspanishschool.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 96333,
+		"inputAbbreviatedPath": "\/images\/our-work\/montanitaspanishschool.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/montanitaspanishschool.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/montanitours.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72379,
+		"inputAbbreviatedPath": "\/images\/our-work\/montanitours.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/montanitours.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/our-work\/portfolio-1-480x400.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -692,6 +802,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/our-work\/waterford.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63677,
+		"inputAbbreviatedPath": "\/images\/our-work\/waterford.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/waterford.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/xirang.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 72389,
+		"inputAbbreviatedPath": "\/images\/our-work\/xirang.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/xirang.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/our-work\/youthgo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 66763,
+		"inputAbbreviatedPath": "\/images\/our-work\/youthgo.jpg",
+		"outputAbbreviatedPath": "\/images\/our-work\/youthgo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/poly_loading_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -725,6 +868,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/slider\/backgroundlogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 608982,
+		"inputAbbreviatedPath": "\/images\/slider\/backgroundlogo.png",
+		"outputAbbreviatedPath": "\/images\/slider\/backgroundlogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slider\/PD_logo_NoBG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 71134,
+		"inputAbbreviatedPath": "\/images\/slider\/PD_logo_NoBG.png",
+		"outputAbbreviatedPath": "\/images\/slider\/PD_logo_NoBG.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/slider\/slide1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -743,6 +908,17 @@
 		"initialSize": 34405,
 		"inputAbbreviatedPath": "\/images\/why-choose\/why-choose-bg.jpg",
 		"outputAbbreviatedPath": "\/images\/why-choose\/why-choose-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/why-choose\/whychooseus.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.08869e+06,
+		"inputAbbreviatedPath": "\/images\/why-choose\/whychooseus.jpg",
+		"outputAbbreviatedPath": "\/images\/why-choose\/whychooseus.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1389,6 +1565,28 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/resources\/logo\/backgroundlogo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 608982,
+		"inputAbbreviatedPath": "\/resources\/logo\/backgroundlogo.png",
+		"outputAbbreviatedPath": "\/resources\/logo\/backgroundlogo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/resources\/logo\/banner_logo_NoBG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27269,
+		"inputAbbreviatedPath": "\/resources\/logo\/banner_logo_NoBG.png",
+		"outputAbbreviatedPath": "\/resources\/logo\/banner_logo_NoBG.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/resources\/logo\/longlogo.png": {
 		"fileType": 32768,
