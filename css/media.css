@@ -19,7 +19,12 @@
 	## 319 to 479
 	## 991
 */
-
+@media only screen and (min-width: 1902px){
+	.we-launch-slope::before{
+		top: -40px;
+		border-bottom: 900px solid rgba(0, 193, 238,0.8);
+	}
+}
 
 /* ## 1741 to 1902 ## */
 @media only screen and (min-width: 1741px) and (max-width: 1902px)
@@ -90,6 +95,11 @@
 		height: 50px;
 		line-height: 50px;
 	}
+
+	.we-launch-slope::before{
+		top: -40px;
+		border-bottom: 900px solid rgba(0, 193, 238,0.8);
+	}
 }
 
 /* ## 1681 to 1740 ## */
@@ -144,6 +154,10 @@
 		margin-top: 40px;
 		height: 50px;
 		line-height: 50px;
+	}
+	.we-launch-slope::before{
+		top: -40px;
+		border-bottom: 900px solid rgba(0, 193, 238,0.8);
 	}
 }
 
@@ -205,6 +219,10 @@
 	.skills-info {
 		right: 5px;
 	}
+	.we-launch-slope::before{
+		top: -40px;
+		border-bottom: 900px solid rgba(0, 193, 238,0.8);
+	}
 }
 
 /* ## 1367 to 1536 ## */
@@ -263,6 +281,10 @@
 	}
 	.social-info {
 		padding: 50px 0;
+	}
+	.we-launch-slope::before{
+		top: -40px;
+		border-bottom: 900px solid rgba(0, 193, 238,0.8);
 	}
 }
 
