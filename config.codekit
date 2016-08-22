@@ -560,6 +560,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/genius\/yourname.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80431,
+		"inputAbbreviatedPath": "\/images\/genius\/yourname.png",
+		"outputAbbreviatedPath": "\/images\/genius\/yourname.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/how-we-work\/1920x800-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
