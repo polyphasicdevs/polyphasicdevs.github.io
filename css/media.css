@@ -694,6 +694,17 @@
 		height: 745px;
 		background-size: 100% 100%;
 	}
+	.footer-item{
+		width: 239px;
+	}
+
+	.footer-item-title{
+		font-size: 9px;
+	}
+
+	.footer-item-desc{
+		font-size: 13px;
+	}
 }
 
 /* ## 1201 to 1280 ## */
@@ -778,6 +789,18 @@
 		height: 745px;
 		background-size: 100% 100%;
 	}
+
+	.footer-item{
+		width: 239px;
+	}
+
+	.footer-item-title{
+		font-size: 9px;
+	}
+
+	.footer-item-desc{
+		font-size: 13px;
+	}
 }
 /* ## 1281 to 1366 ## */
 @media only screen and (min-width: 1281px) and (max-width: 1366px)
@@ -861,6 +884,26 @@
 		background-size: 100% 100%;
 	}
 }
+
+@media only screen and (min-width: 992px) and (max-width: 1144px){
+	.footer-item{
+		margin: 50px 0 50px 10px;
+	}
+
+	.footer-item{
+		width: 237px;
+	}
+
+	.footer-item-title{
+		font-size: 6px;
+	}
+
+	.footer-item-desc{
+		font-size: 10px;
+	}
+}
+}
+
 /* ## 992 to 1024 ## */
 @media only screen and (min-width: 992px) and (max-width: 1024px)
 {
@@ -1350,13 +1393,13 @@
 	}
 	/* Client Section */
 	.client-style1 {
-		background-image: url("../images/client/client_xirang-tablet.png");
+		background-image: url("../images/client/client_xirang-tablet.jpg");
 	}
 	.client-style2 {
-		background-image: url("../images/client/client_dharmabeach-tablet.png");
+		background-image: url("../images/client/client_dharmabeach-tablet.jpg");
 	}
 	.client-style3 {
-		background-image: url("../images/client/client_waterford-tablet.png");
+		background-image: url("../images/client/client_waterford-tablet.jpg");
 	}
 
 	.client-style1.client-active,
@@ -1414,6 +1457,28 @@
 		-moz-transform: translate(0px, 25%);
 		-o-transform: translate(0px, 25%);
 		-ms-transform: translate(0px, 25%);
+	}
+
+	.footer-section .footer-item i {
+    width: 45px;
+    height: 45px;
+    line-height: 42px;
+	}
+
+	.footer-item {
+		margin: 50px 0 50px 1px;
+	}
+
+	.footer-item{
+		width: 183px;
+	}
+
+	.footer-item-title{
+		font-size: 6px;
+	}
+
+	.footer-item-desc{
+		font-size: 10px;
 	}
 
 }
@@ -1728,14 +1793,14 @@
 
 	/* Client Section */
 	.client-style1 {
-		background-image: url("../images/client/client_xirang-mobile.png");
+		background-image: url("../images/client/client_xirang-mobile.jpg");
 	}
 	.client-style2 {
-		background-image: url("../images/client/client_dharmabeach-mobile.png");
+		background-image: url("../images/client/client_dharmabeach-mobile.jpg");
 		background-size: 100% 100%;
 	}
 	.client-style3 {
-		background-image: url("../images/client/client_waterford-mobile.png");
+		background-image: url("../images/client/client_waterford-mobile.jpg");
 	}
 	.client-hover {
 		left: 5%;
@@ -1761,6 +1826,23 @@
 
 	.send-msg a {
 		font-size: 20px;
+	}
+
+	.footer-item {
+		width: 100px;
+		margin: 50px 0 50px 20px;
+	}
+
+	.footer-item i {
+		display: none;
+	}
+
+	.footer-item-title{
+		font-size: 6px;
+	}
+
+	.footer-item-desc{
+		font-size: 10px;
 	}
 }
 

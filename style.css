@@ -1671,7 +1671,7 @@ a { outline: 0 !important; }
 .client-style1 {
 	float: left;
 	clear: both;
-	background-image: url("images/client/client_xirang.png");
+	background-image: url("images/client/client_xirang.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -1705,7 +1705,7 @@ a { outline: 0 !important; }
 	margin-top: -160px;
 	position: relative;
 	width: 100%;
-	background-image: url("images/client/client_dharmabeach.png");
+	background-image: url("images/client/client_dharmabeach.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	height: 450px;
@@ -1762,7 +1762,7 @@ a { outline: 0 !important; }
 }
 
 .client-style3 {
-	background-image: url("images/client/client_waterford.png");
+	background-image: url("images/client/client_waterford.jpg");
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	float: left;
@@ -2022,7 +2022,7 @@ a { outline: 0 !important; }
 	height: 160px;
 }
 .footer-item {
-	width: 300px;
+	width: 265px;
 	display:inline-block;
 	margin: 50px 0 50px 40px;
 }
@@ -2054,7 +2054,7 @@ a { outline: 0 !important; }
 	letter-spacing: 2px;
 }
 .footer-item-desc {
-	font-size: 16px;
+	font-size: 15px;
 	font-weight: 300;
 }
 
