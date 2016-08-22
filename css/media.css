@@ -990,6 +990,10 @@
 		display: none;
 	}
 
+	.banner {
+		background-image: url("../images/slider/backgroundlogo-tablet.png") !important;
+	}
+
 	/* ## Slider Section ## */
 	.slider-section .slide-title {
 		width: 381px;
@@ -1451,6 +1455,10 @@
 	.how-we-work-categories li {
 		text-align: center;
 	}
+
+);
+	}
+
 
 	/* ## Features Section ## */
 	.features-section,
