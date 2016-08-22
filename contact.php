@@ -76,3 +76,4 @@ if(
         echo '<script type="text/javascript">window.parent.$("#contact #alert-msg").html("' . $errorMsg . '");window.parent.$("#contact #alert-msg").show();</script>';
     }
 }
+?>
