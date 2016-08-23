@@ -543,9 +543,8 @@
 						<h3>James Colby</h3>
 						<h6>Co-Founder, Developer, System Administrator</h6>
 						<div class="social-info-content1">
-							<p>Business-minded and market-focused, I strive for the best solutions to even the most obscure
-								problems with impressive results. Systems administration background coupled with a passion for
-								smooth and efficient results. </p>
+							<p>Business-minded and market-focused, Systems administration background coupled with a passion for
+								smooth and efficient results.</p>
 						</div>
 					</div>
 				</div>
@@ -590,8 +589,7 @@
 						<h3>Tinsley Lu</h3>
 						<h6>Quality Assurance & Developer</h6>
 						<div class="social-info-content1">
-							<p>Half a decade of QA experience, bilingual in English and Mandarin. I boast
-								a deep understanding of Agile and Waterfall, lots of experience using Java,
+							<p>QA experience, bilingual in English and Mandarin. A deep understanding of Agile and Waterfall, experience using Java,
 								Charles Proxy, Jira, Python and Selenium.</p>
 						</div>
 					</div>
@@ -686,7 +684,7 @@
 						<h3>Amorè Botha</h3>
 						<h6>Designer</h6>
 						<div class="social-info-content1">
-							<p>Utilising over 10 years of art and design experience, I bring an artistic view to every project where I make sure it is not just beutiful but functional. I use all and any program that gets the job done.</p>
+							<p>Over 10 years of art and design experience, an artistic view to every project where I make sure it is not just beautiful but functional.</p>
 						</div>
 					</div>
 				</div>
@@ -734,7 +732,7 @@
 						<h3>Pablo Mandado</h3>
 						<h6>Photographer & Developer</h6>
 						<div class="social-info-content1">
-							<p>Web designer, SEO optimization expert and professional photographer. Best travel blogger of Spain in 2015. Photographies published in multiple international magazines, featured in National Geographic.</p>
+							<p>Web designer, SEO optimization expert and professional photographer. Photographs published in international magazines, featured in National Geographic.</p>
 						</div>
 					</div>
 				</div>
