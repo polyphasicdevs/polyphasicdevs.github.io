@@ -131,6 +131,10 @@ a { outline: 0 !important; }
 	color: black;
 }
 
+.slide-item img{
+	/*background: 65% no-repeat url("../images/slider/backgroundlogo.jpg");*/
+/*display: none;*/
+}
 
 .service-section .service-bg > h3,
 .header-top h1,

@@ -1060,6 +1060,18 @@
 		display: none
 	}
 
+	.slider-section{
+		height: 500px !important;
+	}
+
+	.slide-item img{
+		display:none;
+	}
+
+	.slide-item{
+		background:center/100% no-repeat url("../images/slider/backgroundlogo-tablet.jpg");
+	}
+
 	/* ## Services Section ## */
 	.service-section {
 		padding: 100px 0;
@@ -1508,6 +1520,20 @@
 	.our-genius .style7 svg 	{
 		display: none;
 	}
+
+	.slider-section{
+		height: 200px !important;
+	}
+
+	.slide-item img{
+		display:none;
+	}
+
+	.slide-item{
+		background:center/100% no-repeat url("../images/slider/backgroundlogo-mobile.jpg");
+
+	}
+
 	.service-section .col-md-6:nth-child(2n) > .service-box-inner,
 	.service-section .col-md-6,
 	.service-box-inner,
@@ -1849,6 +1875,10 @@
 /* ## 481 to 767 ## */
 @media only screen and (min-width: 481px) and (max-width: 767px)
 {
+	.slider-section{
+		height: 400px !important;
+	}
+
 	/* Services Section */
 	.service-section {
 		padding: 100px 0;
@@ -2270,4 +2300,18 @@
 	#style7-hover {
 		display: none !important;
 	}
+}
+@media only screen and (min-width: 0px) and (max-width: 319px){
+
+.slider-section{
+	height: 200px !important;
+}
+
+.slide-item img{
+	display:none;
+}
+
+.slide-item{
+	background:center/100% no-repeat url("../images/slider/backgroundlogo-mobile.jpg");
+}
 }

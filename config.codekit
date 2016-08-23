@@ -571,6 +571,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/slider\/backgroundlogo-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39903,
+		"inputAbbreviatedPath": "\/images\/slider\/backgroundlogo-mobile.jpg",
+		"outputAbbreviatedPath": "\/images\/slider\/backgroundlogo-mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/slider\/backgroundlogo-tablet.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/slider\/backgroundlogo-tablet.jpg",
+		"outputAbbreviatedPath": "\/images\/slider\/backgroundlogo-tablet.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/slider\/backgroundlogo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
