@@ -241,6 +241,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/genius\/pablo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7575,
+		"inputAbbreviatedPath": "\/images\/genius\/pablo.jpg",
+		"outputAbbreviatedPath": "\/images\/genius\/pablo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/genius\/tinsley.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -248,17 +259,6 @@
 		"initialSize": 10343,
 		"inputAbbreviatedPath": "\/images\/genius\/tinsley.jpg",
 		"outputAbbreviatedPath": "\/images\/genius\/tinsley.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/genius\/yourname.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7575,
-		"inputAbbreviatedPath": "\/images\/genius\/yourname.jpg",
-		"outputAbbreviatedPath": "\/images\/genius\/yourname.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
