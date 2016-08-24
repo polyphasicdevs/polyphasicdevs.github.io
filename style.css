@@ -195,9 +195,12 @@ a { outline: 0 !important; }
 	position: absolute;
 	left: 0;
 	right: 0;
-	margin-top: 93px;
+	margin-top: 135px;
 }
 
+.service-bg img {
+	max-width: 30%
+}
 
 .service-section .service-bg > h3 {
 	color: #fff;
@@ -880,7 +883,7 @@ a { outline: 0 !important; }
 }
 
 .we-perfection-slope {
-	margin: -85px -50px 0 -50px;
+	margin: -85px -50px 0 -83px;
 	/*-webkit-transform-origin: left center;
 	-moz-transform-origin: left center;
 	-o-transform-origin: left center;
@@ -1015,7 +1018,7 @@ a { outline: 0 !important; }
 }
 
 .we-launch-slope {
-	margin: -180px -50px 0 -50px;
+	margin: -180px -50px 0 -20px;
 	-webkit-transform-origin: left center;
 	-moz-transform-origin: left center;
 	-o-transform-origin: left center;
@@ -1488,7 +1491,7 @@ a { outline: 0 !important; }
 	left: 20px;
 	width: 85%;
 	text-transform: uppercase;
-	font-weight: 300;
+	font-weight: bold;
 }
 
 .skill-progress-box h6 span {
@@ -1995,10 +1998,10 @@ a { outline: 0 !important; }
 	background-color: #333;
 	transform: skewX(-11deg);
 	color: #fff;
-	-webkit-transform: skewX(-11deg);
-	-moz-transform: skewX(-11deg);
-	-o-transform: skewX(-11deg);
-	-ms-transform: skewX(-11deg);
+	-webkit-transform: skewX(-10deg);
+	-moz-transform: skewX(-10deg);
+	-o-transform: skewX(-10deg);
+	-ms-transform: skewX(-10deg);
 }
 
 .send-msg a span {
