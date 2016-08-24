@@ -1489,7 +1489,7 @@ a { outline: 0 !important; }
 	line-height: 50px;
 	margin: 0;
 	left: 20px;
-	width: 85%;
+	width: 75%;
 	text-transform: uppercase;
 	font-weight: bold;
 }
@@ -1760,6 +1760,7 @@ a { outline: 0 !important; }
 	display: block;
 	line-height: 60px;
 	margin-bottom: 40px;
+	padding: 5px;
 }
 
 .client-hover p {
