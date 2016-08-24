@@ -505,17 +505,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/our-work\/xirang.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18638,
-		"inputAbbreviatedPath": "\/images\/our-work\/xirang.jpg",
-		"outputAbbreviatedPath": "\/images\/our-work\/xirang.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/our-work\/youthgo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
