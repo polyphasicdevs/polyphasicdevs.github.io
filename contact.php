@@ -29,8 +29,7 @@ $errorMsg   = 'Hm.. seems there is a problem, sorry!';
  * DO NOT EDIT ANYTHING BELOW THIS LINE, UNLESS YOU'RE SURE WHAT YOU'RE DOING
  */
 
-?>
-<?php
+
 if(
     !isset($_POST['contact-name']) ||
 	!isset($_POST['contact-company-name']) ||
@@ -50,8 +49,7 @@ if(
     echo '<script type="text/javascript">window.parent.$("#contact #alert-msg").html("' . $fillMsg . '");window.parent.$("#contact #alert-msg").show();</script>';
 } else {
 
-    ?>
-    <?php
+  
 	$msg = "Name: ".$_POST['contact-name']."\r\n";
 	$msg .= "Company: ".$_POST['contact-company-name']."\r\n";
 	$msg .= "Email: ".$_POST['contact-email']."\r\n";
