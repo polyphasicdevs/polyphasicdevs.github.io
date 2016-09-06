@@ -566,7 +566,7 @@ a { outline: 0 !important; }
 }
 
 .no-space.portfolio-list li {
-	padding: 0;
+	padding: 3px;
 }
 
 .portfolio-list li {

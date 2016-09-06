@@ -75,7 +75,7 @@ a{outline:0!important}
 .portfolio-categories>li>a:focus{text-decoration:none}
 .portfolio-categories>li>a.active,.portfolio-categories>li>a:hover{color:#fffefe;text-decoration:none;background-color:#00c1ef}
 .portfolio-list{width:100%;padding:0;list-style:none;margin-bottom:0}
-.no-space.portfolio-list li{padding:0}
+.no-space.portfolio-list li{padding:3px}
 .portfolio-list li{display:inline-block;margin:0}
 .portfolio-image-block{position:relative}
 .portfolio-block-hover{background-color:rgba(0,193,238,.8);display:none;position:absolute;height:100%;width:100%;top:0}
