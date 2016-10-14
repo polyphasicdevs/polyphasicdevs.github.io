@@ -108,7 +108,7 @@ a{outline:0!important}
 .research-slope{margin:-150px -50px 0 -50px;overflow:hidden;height:803px;position:relative;background-image:url(images/how-we-work/1920x887.jpg);background-size:100% 100%;background-repeat:no-repeat;background-position:center top}
 .research-slope:before{width:52%;height:100%;border-bottom:810px solid rgba(0,193,238,.8);border-left:150px solid transparent;border-right:50px solid transparent;content:"";position:absolute;top:0;right:0;bottom:0}
 .we-launch,.we-perfection{color:#fff;position:absolute;top:30%;width:35%}
-.clean-code-box,.research{color:#fff;width:34%;position:absolute;left:auto;right:192px;top:30%}
+.clean-code-box,.research{color:#fff;width:34%;position:absolute;left:auto;right:100px;top:30%}
 .clean-code-box.shape-content h3,.research.shape-content h3{-webkit-transform:skewX(0deg);-moz-transform:skewX(0deg);-o-transform:skewX(0deg);-ms-transform:skewX(0deg);transform:skewX(0deg)}
 .shape-content h3{font-size:36px;margin-bottom:50px}
 .shape-content p{font-size:18px;line-height:30px}

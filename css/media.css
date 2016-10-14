@@ -401,7 +401,7 @@
 		top: -30px;
 	}
 	.research {
-		right: 120px;
+		right: 100px;
 	}
 	.we-perfection-slope:before {
 		width: 52.2%;
@@ -454,7 +454,7 @@
 	}
 
 	.we-launch{
-		left: 175px;
+		left: 100px;
 	}
 
 	.we-perfection{
@@ -1185,18 +1185,17 @@
 		border-left: 0px solid transparent;
 		border-right: 0px solid transparent;
 		top: auto;
-		transform: rotate(-4deg);
+		/*transform: rotate(-4deg);
 		-webkit-transform: rotate(-4deg);
 		-moz-transform: rotate(-4deg);
-		-o-transform: rotate(-4deg);
+		-o-transform: rotate(-4deg);*/
 		right: -20px;
 	}
 
 	.research,
-	.we-perfection,
 	.clean-code-box,
 	.we-launch {
-		bottom: 19.5%;
+		bottom: 23.5%;
 		color: #fff;
 		position: absolute;
 		right: 0;
@@ -1209,6 +1208,12 @@
 		-moz-transform: rotate(0deg);
 		-o-transform: rotate(0deg);
 	}
+
+	.we-perfection {
+		top: 62.5%;
+		width: 65%;
+	}
+
 	.shape-content h3 {
 		font-size: 30px;
 		margin-bottom: 20px;
@@ -1228,17 +1233,18 @@
 		height: 630px;
 		width: 115%;
 	}
-	.we-perfection {
+	/*.we-perfection {
 		transform: rotate(-3deg);
 		-webkit-transform: rotate(-3deg);
 		-moz-transform: rotate(-3deg);
 		-o-transform: rotate(-3deg);
-	}
+	}*/
+
 	.we-perfection-slope:before {
 		width: 100%;
 		height: 100%;
 		border-top: 0px solid rgba(0, 193, 238,0.8);
-		border-bottom: 340px solid rgba(0, 193, 238,0.8);
+		border-bottom: 270px solid rgba(0, 193, 238,0.8);
 		border-left: 0px solid transparent;
 		border-right: 0px solid transparent;
 		content: "";
@@ -1253,25 +1259,25 @@
 	.clean-code {
 		background-color: transparent;
 		background-image: url('../images/how-we-work/1920x803-tablet.jpg');
-		height: 630px;
+		height: 800px;
 		margin-top: -25px;
-		transform: rotate(-4deg);
+		/*transform: rotate(-4deg);
 		-webkit-transform: rotate(-4deg);
 		-moz-transform: rotate(-4deg);
-		-o-transform: rotate(-4deg);
+		-o-transform: rotate(-4deg);*/
 	}
 	.clean-code-box {
-		bottom: 21.5%;
-		transform: rotate(4deg);
+		bottom: 25.5%;
+		/*transform: rotate(4deg);
 		-webkit-transform: rotate(4deg);
 		-moz-transform: rotate(4deg);
-		-o-transform: rotate(4deg);
+		-o-transform: rotate(4deg);*/
 	}
 	.clean-code:before {
 		width: 100%;
 		height: 100%;
 		border-top: 0px solid rgba(0, 193, 238,0.8);
-		border-bottom: 340px solid rgba(0, 193, 238,0.8);
+		border-bottom: 390px solid rgba(0, 193, 238,0.8);
 		border-left: 0px solid transparent;
 		border-right: 0px solid transparent;
 		content: "";
@@ -1285,18 +1291,18 @@
 	.we-launch-slope {
 		background-color: transparent;
 		background-image: url('../images/how-we-work/1920x800_2-tablet.jpg');
-		transform: rotate(4deg);
+		/*transform: rotate(4deg);
 		-webkit-transform: rotate(4deg);
 		-moz-transform: rotate(4deg);
-		-o-transform: rotate(4deg);
+		-o-transform: rotate(4deg);*/
 		margin-top: -143px;
-		height: 700px;
+		height: 630px;
 	}
 	.we-launch-slope:before {
 		width: 100%;
 		height: 100%;
 		border-top: 0px solid rgba(0, 193, 238,0.8);
-		border-bottom: 340px solid rgba(0, 193, 238,0.8);
+		border-bottom: 250px solid rgba(0, 193, 238,0.8);
 		border-left: 0px solid transparent;
 		border-right: 0px solid transparent;
 		content: "";
@@ -1308,11 +1314,12 @@
 		-o-transform: rotate(0deg);
 	}
 	.we-launch {
-		transform: rotate(-5deg);
+		/*transform: rotate(-5deg);
 		-webkit-transform: rotate(-5deg);
 		-moz-transform: rotate(-5deg);
-		-o-transform: rotate(-5deg);
-		bottom: 21%;
+		-o-transform: rotate(-5deg);*/
+		bottom: 10%;
+		right: 120px !important;
 	}
 
 	/* ## Application Section ## */
@@ -1603,22 +1610,22 @@
 		width: 100%;
 		height: 100%;
 		border-top: 0px solid rgba(0, 193, 238,0.8);
-		border-bottom: 440px solid rgba(0, 193, 238,0.8);
+		border-bottom: 340px solid rgba(0, 193, 238,0.8);
 		border-left: 0px solid transparent;
 		border-right: 0px solid transparent;
 		content: "";
 		position: absolute;
 		top: auto;
 		right: 0;
-		transform: rotate(-10deg);
+		/*transform: rotate(-10deg);
 		-webkit-transform: rotate(-10deg);
 		-moz-transform: rotate(-10deg);
-		-o-transform: rotate(-10deg);
+		-o-transform: rotate(-10deg);*/
 	}
 	.research,
 	.clean-code-box	{
 		top: auto;
-		bottom: 20%;
+		bottom: 16%;
 		width: 70%;
 		left: 0;
 		right: 0;
@@ -1629,16 +1636,16 @@
 		-ms-transform: skewX(0deg);
 		transform: skewX(0deg);
 	}
-	.clean-code-box {
+	/*.clean-code-box {
 		transform: rotate(5deg);
 		-webkit-transform: rotate(5deg);
 		-moz-transform: rotate(5deg);
 		-o-transform: rotate(5deg);
-	}
+	}*/
 
 	.we-perfection,
 	.we-launch	{
-		bottom: 25%;
+		bottom: 16%;
 		color: #fff;
 		position: absolute;
 		right: 20px;
@@ -1649,7 +1656,7 @@
 	}
 
 	.we-perfection {
-		width: 60%;
+		width: 75%;
 		right: 0;
 	}
 	.shape-content h3 {
@@ -1667,7 +1674,7 @@
 		width: 100%;
 		height: 100%;
 		border-top: 0px solid rgba(0, 193, 238,0.8);
-		border-bottom: 440px solid rgba(0, 193, 238,0.8);
+		border-bottom: 330px solid rgba(0, 193, 238,0.8);
 		border-left: 0px solid transparent;
 		border-right: 0px solid transparent;
 		content: "";
@@ -1682,21 +1689,14 @@
 	.clean-code {
 		background-color: transparent;
 		background-image: url('../images/how-we-work/1920x803-mobile.jpg');
-		height: 652px;
-		margin-top: -46px;
-
-		-webkit-transform: rotate(-5deg);
-		-moz-transform: rotate(-5deg);
-		-o-transform: rotate(-5deg);
-		-ms-transform: rotate(-5deg);
-		transform: rotate(-5deg);
+		height: 800px;
 	}
 
 	.clean-code:before {
 		width: 100%;
 		height: 100%;
 		border-top: 0px solid rgba(0, 193, 238,0.8);
-		border-bottom: 350px solid rgba(0, 193, 238,0.8);
+		border-bottom: 390px solid rgba(0, 193, 238,0.8);
 		border-left: 0px solid transparent;
 		border-right: 0px solid transparent;
 		content: "";
@@ -1709,15 +1709,15 @@
 		-o-transform: rotate(0deg);
 	}
 	.clean-code-box {
-		bottom: 21.5%;
+		bottom: 24.5%;
 	}
 	.we-launch-slope {
 		background-color: transparent;
 		background-image: url('../images/how-we-work/1920x800_2-mobile.jpg');
-		transform: rotate(5deg);
+		/*transform: rotate(5deg);
 		-webkit-transform: rotate(5deg);
 		-moz-transform: rotate(5deg);
-		-o-transform: rotate(5deg);
+		-o-transform: rotate(5deg);*/
 		position: relative;
 	}
 	.we-launch-slope:before {
@@ -1737,10 +1737,10 @@
 		-o-transform: rotate(0deg);
 	}
 	.we-launch {
-		transform: rotate(-5deg);
+		/*transform: rotate(-5deg);
 		-webkit-transform: rotate(-5deg);
 		-moz-transform: rotate(-5deg);
-		-o-transform: rotate(-5deg);
+		-o-transform: rotate(-5deg);*/
 		bottom: 8%;
 	}
 
