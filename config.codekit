@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19127",
+"creatorBuild": "19137",
 "files": {
 	"\/analyticstracking.php": {
 		"fileType": 8192,
@@ -541,7 +541,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 389459,
+		"initialSize": 15184,
 		"inputAbbreviatedPath": "\/images\/our-work\/montanitours.jpg",
 		"outputAbbreviatedPath": "\/images\/our-work\/montanitours.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -574,7 +574,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 318461,
+		"initialSize": 16846,
 		"inputAbbreviatedPath": "\/images\/our-work\/youthgo.jpg",
 		"outputAbbreviatedPath": "\/images\/our-work\/youthgo.jpg",
 		"outputPathIsOutsideProject": 0,
