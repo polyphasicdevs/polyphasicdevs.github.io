@@ -1028,11 +1028,11 @@ a {
   top: 42px;
   left: 0;
   bottom: 0;
-  -webkit-transform: rotate(4.5deg);
+  /*-webkit-transform: rotate(4.5deg);
   -moz-transform: rotate(4.5deg);
   -o-transform: rotate(4.5deg);
   -ms-transform: rotate(4.5deg);
-  transform: rotate(4.5deg);
+  transform: rotate(4.5deg);*/
 }
 
 .we-launch-box-inner {
@@ -1883,7 +1883,6 @@ a {
   padding: 130px 0;
   width: 100%;
   float: left;
-  top: 6px;
   clear: both;
 }
 

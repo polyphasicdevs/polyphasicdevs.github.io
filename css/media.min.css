@@ -64,7 +64,7 @@
 .research{right:100px}
 .we-perfection-slope:before{width:52.2%;height:130%;border:none;background-color:rgba(0,193,238,.8);top:-83px;transform:rotate(-15deg);-webkit-transform:rotate(-15deg);-moz-transform:rotate(-15deg);-o-transform:rotate(-15deg)}
 .clean-code:before{width:53%;height:100%;border:none;transform:rotate(15deg);-webkit-transform:rotate(15deg);-moz-transform:rotate(15deg);-o-transform:rotate(15deg);background-color:rgba(0,193,238,.8);top:0}
-.we-launch-slope:before{border-color:rgba(0,193,238,.8)transparent;border-style:solid;border-width:0 169px 875px 0;top:-30px;height:100%;transform:skewY(6deg);-webkit-transform:skewY(6deg);-moz-transform:skewY(6deg);-o-transform:skewY(6deg);width:57%}
+.we-launch-slope:before{border-color:rgba(0,193,238,.8)transparent;border-style:solid;border-width:0 169px 875px 0;top:0;height:100%}
 .features-section h2{margin-right:85px}
 .why-choose-inner{margin-left:40px}
 .why-choose h2{margin-left:125px;font-size:40px}
@@ -86,7 +86,7 @@
 .why-choose h2{margin-left:150px}
 .we-perfection-slope:before{width:52.8%;height:130%;border:none;background-color:rgba(0,193,238,.8);top:-83px;transform:rotate(-15deg);-webkit-transform:rotate(-15deg);-moz-transform:rotate(-15deg);-o-transform:rotate(-15deg)}
 .clean-code:before{width:51%;height:100%;border:none;transform:rotate(15deg);-webkit-transform:rotate(15deg);-moz-transform:rotate(15deg);-o-transform:rotate(15deg);background-color:rgba(0,193,238,.8);top:0;right:-30px}
-.we-launch-slope:before{border-color:rgba(0,193,238,.8)transparent;border-style:solid;border-width:0 203px 873px 0;height:100%;top:-24px;transform:skewY(7deg);-webkit-transform:skewY(7deg);-moz-transform:skewY(7deg);-o-transform:skewY(7deg);width:62%}
+.we-launch-slope:before{border-color:rgba(0,193,238,.8)transparent;border-style:solid;border-width:0 203px 873px 0;height:100%;top:0;width:62%}
 .clean-code-box,.research{right:120px}
 .we-launch,.we-perfection{left:120px}
 .skill-progress-box h6{line-height:40px}
@@ -138,7 +138,7 @@
 .skill-progress-box h6{line-height:40px;width:78%}
 .progress{margin-top:18px;height:40px;line-height:40px}
 .hover{line-height:275px}
-.clean-code::before{bottom:112px;content:"";height:114%;position:absolute;right:-35px;top:-22px;width:53.7%}
+.clean-code::before{bottom:112px;content:"";height:114%;position:absolute;right:-65px;top:-22px;width:53.7%}
 .client-style1.client-active,.client-style1:hover,.client-style2.client-active,.client-style2:hover,.client-style3.client-active,.client-style3:hover{height:745px;background-size:100% 100%}}
 @media only screen and (min-width:992px) and (max-width:1144px){.footer-item{margin:50px 0 50px 10px;width:237px}
 .footer-item-title{font-size:6px}
