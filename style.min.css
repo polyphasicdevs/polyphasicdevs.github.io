@@ -21,7 +21,8 @@ a{outline:0!important}
 .section-header h2{display:block;text-align:center;margin:0}
 .service-box-inner .content-box>h3,.service-box-inner .content-box>p{color:#333}
 .navbar-default .navbar-nav>.active>a,.navbar-default .navbar-nav>.active>a:focus,.navbar-default .navbar-nav>.active>a:hover{background-color:transparent;color:#000}
-.service-section{padding:110px 0;position:relative}
+#gCertified{margin:0 auto;padding:30px;max-width:300px}
+.service-section{padding:110px 0;position:relative;padding-bottom:0}
 .service-bg{text-align:center;margin:0 auto;position:absolute;left:0;right:0;margin-top:125px}
 .service-bg img{max-width:30%}
 .service-section .service-bg>h3{color:#fff;position:absolute;top:49%;left:0;right:0;margin:0 auto;font-size:36px}

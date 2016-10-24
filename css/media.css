@@ -1046,6 +1046,7 @@
 	/* ## Services Section ## */
 	.service-section {
 		padding: 100px 0;
+		padding-bottom: 0;
 	}
 	.service-bg {
 		display: none;
@@ -1858,6 +1859,7 @@
 	/* Services Section */
 	.service-section {
 		padding: 100px 0;
+		padding-bottom: 0;
 	}
 	.service-box-inner {
 		margin: 0 0 40px 0;
@@ -2002,6 +2004,7 @@
 	/* Services Section */
 	.service-section {
 		padding: 100px 0;
+		padding-bottom: 0;
 	}
 	.service-box-inner {
 		margin: 0 0 40px 0;

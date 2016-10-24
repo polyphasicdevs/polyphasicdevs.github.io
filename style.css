@@ -150,10 +150,16 @@ a {
 
 
 /* ## Services Section ## */
+#gCertified {
+  margin: 0 auto;;
+  padding: 30px;
+  max-width: 300px;
+}
 
 .service-section {
   padding: 110px 0;
   position: relative;
+  padding-bottom: 0px;
 }
 
 .service-bg {

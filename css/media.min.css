@@ -169,7 +169,7 @@
 .slider-section{height:500px!important}
 .slide-item img{display:none}
 .slide-item{background:center/100% no-repeat url(../images/slider/backgroundlogo-tablet.jpg)}
-.service-section{padding:100px 0}
+.service-section{padding:100px 0;padding-bottom:0}
 .service-bg{display:none}
 .service-box-inner{margin-bottom:40px}
 .service-box-inner .col-md-4{float:left!important;text-align:right}
@@ -295,7 +295,7 @@
 .footer-item-title{font-size:6px}
 .footer-item-desc{font-size:10px}}
 @media only screen and (min-width:481px) and (max-width:767px){.slider-section{height:400px!important}
-.service-section{padding:100px 0}
+.service-section{padding:100px 0;padding-bottom:0}
 .service-box-inner{margin:0 0 40px}
 .service-box-inner .col-md-4{float:none!important}
 .service-section .col-md-6:last-child>.service-box-inner{margin-bottom:0}
@@ -323,7 +323,7 @@
 .slider-section .slide-title span.inner-circle span:nth-child(1){font-size:42px}
 .slider-section .slide-title span.inner-circle span:nth-child(2){font-size:38px}
 .slider-section .slide-title span.inner-circle span:nth-child(3){font-size:36px}
-.service-section{padding:100px 0}
+.service-section{padding:100px 0;padding-bottom:0}
 .service-box-inner{margin:0 0 40px}
 .service-box-inner .col-md-4{float:none!important}
 .service-section .col-md-6:last-child>.service-box-inner{margin-bottom:0}
