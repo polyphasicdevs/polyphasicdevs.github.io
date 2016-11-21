@@ -879,11 +879,27 @@
 		font-size: 10px;
 	}
 }
-}
+
 
 /* ## 992 to 1024 ## */
 @media only screen and (min-width: 992px) and (max-width: 1024px)
 {
+	.service-bg{display:none;}
+	.service-section .col-md-6 {width: 100%;}
+	.service-section .col-md-6:nth-child(2) {padding: 0;}
+	.service-section .col-md-6:nth-child(2) .col-md-4{left:-50px;}
+	.service-section .col-md-6:nth-child(3) {padding: 0;}
+	.service-section .col-md-6:nth-child(3) .col-md-4{right:-50px;}
+	.service-section .col-md-6:nth-child(4) {right: 0; margin: 0;}
+	.service-section .col-md-6:nth-child(4) .col-md-4{left:-50px;}
+	.service-section .col-md-6:nth-child(5) {left: 0; margin: 0;}
+	.service-section .col-md-6:nth-child(5) .col-md-4{right:-50px;}
+	.service-section .col-md-6:nth-child(6) {right: 0;}
+	.service-section .col-md-6:nth-child(6) .col-md-4{right:50px;}
+	.service-section .col-md-6:nth-child(7) {left: 0;}
+	.service-section .col-md-6:nth-child(7) .col-md-4{right:-50px;}
+
+
 	.research-slope:before {
 		width: 54.8%;
 		height: 100%;
@@ -1071,23 +1087,23 @@
 	}
 
 	.service-section .col-md-6:nth-child(3) .service-box-inner {
-		margin-right: 13px;
+		/*margin-right: 13px;*/
 	}
 
 	.service-section .col-md-6:nth-child(4) .service-box-inner {
-		margin-right: 10px;
+		/*margin-right: 10px;*/
 	}
 
 	.service-section .col-md-6:nth-child(5) .service-box-inner {
-		margin-left: 30px;
+		/*margin-left: 30px;*/
 	}
 
 	.service-section .col-md-6:nth-child(6) .service-box-inner {
-		margin-left: 23px;
+		/*margin-left: 23px;*/
 	}
 
 	.service-section .col-md-6:nth-child(7) .service-box-inner {
-		margin-right: 23px;
+		/*margin-right: 23px;*/
 	}
 
 	/* ## Features Section ## */
@@ -1128,8 +1144,12 @@
 	/*  ## Why Choose Section ## */
 	.why-choose-box {
 		margin-left: 0;
-		margin-right: 0;
+		margin-right: -100px;
 		padding-left: 0;
+	}
+
+	.col-sm-8 {
+		width: 83.667%;
 	}
 
 	.why-choose:before {
@@ -1138,6 +1158,11 @@
 	.why-choose-box {
 		float: right;
 	}
+
+	.why-choose-inner {
+		padding-left: 40px;
+	}
+
 	.why-choose h2  {
 		text-align:center;
 		margin-left: 150px;
