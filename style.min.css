@@ -150,10 +150,14 @@ a {
 
 
 /* ## Services Section ## */
-#gCertified {
-  margin: 0 auto;;
-  padding: 30px;
-  max-width: 300px;
+#badge {
+  margin: -15px auto;;
+  padding: 15px;
+  max-width: 275px;
+}
+
+#badgeCenter{
+ padding: 0 10px 30px 10px;
 }
 
 .service-section {
@@ -284,7 +288,6 @@ a {
   transform: scale(1);
   opacity: 1;
 }
-
 
 /* ## Features Section ## */
 
