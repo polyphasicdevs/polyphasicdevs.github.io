@@ -917,6 +917,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/images\/slider\/PD_logo_100.png": {
+		"ft": 32768,
+		"iS": 19522,
+		"oA": 0,
+		"oAP": "\/images\/slider\/PD_logo_100.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/slider\/PD_logo_125.png": {
+		"ft": 32768,
+		"iS": 22666,
+		"oA": 0,
+		"oAP": "\/images\/slider\/PD_logo_125.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/slider\/PD_logo_75.png": {
+		"ft": 32768,
+		"iS": 16794,
+		"oA": 0,
+		"oAP": "\/images\/slider\/PD_logo_75.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/images\/slider\/PD_logo_NoBG.png": {
 		"ft": 32768,
 		"iS": 71134,
