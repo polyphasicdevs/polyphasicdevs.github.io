@@ -14,7 +14,10 @@ if (!isset($_POST['contact-name']) ||
   empty($_POST['contact-email']) ||
   empty($_POST['contact-message'])
 ) {
-  echo '<script type="text/javascript">window.parent.$("#contact #alert-msg").html("' . "Please fill all fields!" . '");window.parent.$("#contact #alert-msg").show();</script>';
+  echo '<script type="text/javascript">
+          window.parent.$("#contact #alert-msg").html("Please fill in all fields!");
+          window.parent.$("#contact #alert-msg").show();
+        </script>';
 }
 //else{
 //   /**
