@@ -980,15 +980,6 @@
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/functions.min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/min\/functions.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
 	"\/js\/html5\/html5shiv.min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -1003,15 +994,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/html5\/min\/respond.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/min\/functions-min.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "\/js\/min\/min\/functions-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
