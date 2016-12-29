@@ -921,6 +921,6 @@ function changeVideo() {
 	v = !v;
 }
 
-$(".send").on("click",function(){
-	$(".modal").toggle();
-})
+// $(".send").on("click",function(){
+// 	$(".modal").toggle();
+//})

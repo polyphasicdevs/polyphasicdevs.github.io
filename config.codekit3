@@ -4807,6 +4807,92 @@
 		"oF": 0,
 		"opt": 1
 		},
+	"\/vendor\/mailjet\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/.gitignore",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/.travis.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/.travis.yml",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/composer.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/vendor\/mailjet\/composer-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/vendor\/mailjet\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/LICENSE",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/phpunit.xml.dist": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/phpunit.xml.dist",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/vendor\/mailjet\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/vendor\/mailjet\/src\/Mailjet\/Client.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/src\/Mailjet\/Client.php",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/src\/Mailjet\/Config.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/src\/Mailjet\/Config.php",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/src\/Mailjet\/Request.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/src\/Mailjet\/Request.php",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/src\/Mailjet\/Resources.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/src\/Mailjet\/Resources.php",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/src\/Mailjet\/Response.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/src\/Mailjet\/Response.php",
+		"oF": 0
+		},
+	"\/vendor\/mailjet\/test\/Mailjet\/test.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/vendor\/mailjet\/test\/Mailjet\/test.php",
+		"oF": 0
+		},
 	"\/vendor\/php-http\/discovery\/CHANGELOG.md": {
 		"cS": 0,
 		"eF": 1,
@@ -5800,7 +5886,7 @@
 	"creationDate": 500478473,
 	"displayValue": "polyphasicdevs",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_green"
+	"iconImageName": "meme-fry"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
