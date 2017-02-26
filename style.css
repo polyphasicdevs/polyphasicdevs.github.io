@@ -201,7 +201,7 @@ a {
 
 .service-section .col-md-6:nth-child(5) {
   left: 117px;
-  margin: 43px 0;
+  margin: 32px 0;
 }
 
 .service-box-inner {
@@ -1823,6 +1823,7 @@ a {
 
 .social-main {
   width: 100%;
+  padding-top: 20px;
 }
 
 .social-main a {

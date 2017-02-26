@@ -503,7 +503,7 @@
 	/* Services */
 	.service-bg{display:none;}
 	.service-section .col-md-6 {width: 100%;}
-	.service-section .col-md-6:nth-child(2) {padding: 0;}
+	.service-section .col-md-6:nth-child(2) {padding: 0; margin: 0px 210px;}
 	.service-section .col-md-6:nth-child(2) .col-md-4{left:-50px;}
 	.service-section .col-md-6:nth-child(3) {padding: 0;}
 	.service-section .col-md-6:nth-child(3) .col-md-4{right:-50px;}
@@ -2280,7 +2280,7 @@
 }
 
 /* ## 991 ## */
-@media (max-width: 991px)
+@media (max-width: 1200px)
 {
 	/* Header Section */
 	.header-section {

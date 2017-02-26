@@ -112,7 +112,7 @@
 	margin-bottom: 0;
 }
 .menu-block .navbar-nav {
-	padding-right: 15px;
+	/*padding-right: 15px;*/
 }
 .menu-block .navbar-nav > li {
 	padding: 0 5px;
@@ -121,4 +121,10 @@
 	color: #fff;
 	text-transform: uppercase;
 	line-height: 60px;
+}
+
+@media only screen and (max-width: 1220px){
+	.menu-block .navbar-nav > li{
+		padding: 0;
+	}
 }
